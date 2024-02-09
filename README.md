@@ -31,7 +31,7 @@ Find a way to understand how Instacart's business changed over time…without us
 
 Before you panic about time-series data analysis without time-series data, take a deep breath, it's all going to be okay. Take a look at the data you have access to... things will start to click!
 
-## Case Study Background: Instacart Grocery Orders Data
+## Case Study Background: Instacart Grocery Orders [Data](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
 Here are the schemas for all 5 tables in the Instacart market data. You’ll decide which ones are relevant and how to best use them throughout this case study.
 
 ### ic_order_products_curr
